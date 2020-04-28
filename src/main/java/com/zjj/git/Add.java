@@ -10,5 +10,6 @@ public class Add {
 		System.out.println("Idea add by zjj");
 		System.out.println("Idea add by zjj2");
 		System.out.println("ADD BY IDEA1");
+		System.out.println("test ignore");
 	}
 }
